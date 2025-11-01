@@ -1,2 +1,0 @@
-testi tiedosto hakemisto1
-muutettu toisessa etärepossa
