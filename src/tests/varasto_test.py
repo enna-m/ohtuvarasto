@@ -90,5 +90,4 @@ class TestVarasto(unittest.TestCase):
         mahtuu = self.varasto.paljonko_mahtuu()
 
         # string ja arvot tulostuvat oikein
-        self.assertAlmostEqual(s,
-            f"saldo = {self.varasto.saldo}, vielä tilaa {mahtuu}")
+        self.assertAlmostEqual(s, f"saldo = {self.varasto.saldo}, vielä tilaa {mahtuu}")
